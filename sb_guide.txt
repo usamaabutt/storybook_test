@@ -1,0 +1,11 @@
+https://www.youtube.com/watch?v=nWgKVEEI47Q
+
+Install Story Book by:
+npm i --save-dev @storybook/cli
+sb init --type react_native
+
+DO install react native server to  view in web
+
+add ondevice actions using npm add -D @storybook/addon-ondevice-actions
+add app name in storybook/index.js if using vanila react native
+
